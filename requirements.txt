@@ -1,2 +1,4 @@
 Django==5.1.4
 django-admin-adminlte==1.0.8
+python-decouple==3.8
+psycopg2==2.9.10
